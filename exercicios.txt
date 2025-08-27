@@ -1,0 +1,48 @@
+📌 Exercícios com Arrays em PHP
+🔹 Nível 1 – Básico (Arrays Simples)
+
+1.Criar um array de frutas e exibir cada fruta em uma linha usando foreach.
+
+2.Criar um array de números de 1 a 5 e mostrar o primeiro e o último elemento.
+
+3.Adicionar um novo elemento em um array já existente e exibir novamente.
+
+4.Criar um array com os dias da semana e exibir o dia correspondente a hoje (use date("w") para pegar o dia da semana).
+
+5.Criar um array de 5 nomes e exibir a quantidade de elementos (use count()).
+
+🔹 Nível 2 – Operações Simples
+
+6.Criar um array de números e exibir a soma de todos os elementos.
+
+7.Criar um array de notas (ex.: [7, 8.5, 9, 6, 5]) e calcular a média.
+
+8.Criar um array de 10 números e exibir apenas os pares.
+
+9.Criar um array de nomes e verificar se um nome específico existe nele (in_array).
+
+10.Criar um array de números e exibir o maior e o menor valor (max, min).
+
+🔹 Nível 3 – Arrays Associativos
+
+11.Criar um array associativo com informações de uma pessoa: nome, idade, cidade. Exibir cada informação separada.
+
+12.Criar um array associativo de produtos com nome e preço, e exibir todos em formato de tabela HTML.
+
+13.Criar um array associativo de alunos (chave = nome, valor = nota). Mostrar apenas os alunos com nota maior ou igual a 7.
+
+14.Criar um array associativo de times de futebol com nome => quantidade de títulos. Exibir o time com mais títulos.
+
+15.Criar um array associativo representando um carrinho de compras (produto => preço) e exibir o valor total da compra.
+
+🔹 Nível 4 – Arrays Multidimensionais
+
+16.Criar um array multidimensional de alunos, cada um com nome, idade e nota. Exibir os dados em formato de tabela.
+
+17.Criar um array multidimensional com produtos (nome, preço, estoque) e exibir apenas os que têm estoque maior que 0.
+
+18.Criar uma “agenda de contatos” com nome, telefone e email. Exibir todos os contatos.
+
+19.Criar um array de notas de 3 alunos, cada um com 3 notas, e calcular a média de cada aluno.
+
+20.Criar um array de cidades com nome e população, e exibir a cidade mais populosa.
